@@ -1,0 +1,16 @@
+{
+    "name": "devgabrielmaia/php-data-structure",
+    "description": "Data structure in PHP",
+    "autoload": {
+        "psr-4": {
+            "Devgabrielmaia\\PhpDataStructure\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Maia",
+            "email": "gabrielmaia.web@gmail.com"
+        }
+    ],
+    "require": {}
+}
